@@ -15,8 +15,8 @@ Segundo parcial estructura de datos 2 - 24 de marzo del 2023
 
 
 ## Referencias 
-[1] (https://barcelonageeks.com/componentes-fuertemente-conectados/)
+[1] https://barcelonageeks.com/componentes-fuertemente-conectados/
 
-[2] (https://www.techiedelight.com/es/check-graph-strongly-connected-one-dfs-traversal/)
+[2] https://www.techiedelight.com/es/check-graph-strongly-connected-one-dfs-traversal/
 
 [3] https://chat.openai.com/chat

@@ -19,4 +19,4 @@ Segundo parcial estructura de datos 2 - 24 de marzo del 2023
 
 [2] (https://www.techiedelight.com/es/check-graph-strongly-connected-one-dfs-traversal/)
 
-[3] (https://chat.openai.com/chat)
+[3] https://chat.openai.com/chat
